@@ -6,6 +6,7 @@
 
 * [Online Markdown Editor](https://dillinger.io/)
 
+> from this point is the copy pasta of the template
 
 One Paragraph of the project description
 
