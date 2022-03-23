@@ -1,4 +1,10 @@
 # Project Title -- COPIED FROM A TEMPLATE -- need to edit
+
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+[Markdown Guide](https://daringfireball.net/projects/markdown/syntax)
+[Online Markdown Editor](https://dillinger.io/)
+
+
 One Paragraph of the project description
 
 Initially appeared on
