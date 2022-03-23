@@ -1,4 +1,4 @@
-# Resume of Miggi de Ramos
+# Resumé of Miggi de Ramos
 
 ###### email.address@email.com
 ###### 0919 123 4567
