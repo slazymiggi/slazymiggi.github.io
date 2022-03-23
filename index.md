@@ -1,7 +1,8 @@
 # Resumé of Miggi de Ramos
-
 ###### email.address@email.com
 ###### 0919 123 4567
+
+![img](https://i.giphy.com/media/sIIhZliB2McAo/giphy.webp)
 
 ## Education
 __College/University - Degree__ (date of completion)
